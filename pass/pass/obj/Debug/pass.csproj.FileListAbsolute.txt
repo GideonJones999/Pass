@@ -1,0 +1,9 @@
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\bin\Debug\pass.exe.config
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\bin\Debug\pass.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\bin\Debug\pass.pdb
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\obj\Debug\pass.csprojResolveAssemblyReference.cache
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\obj\Debug\pass.Form1.resources
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\obj\Debug\pass.Properties.Resources.resources
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\obj\Debug\pass.csproj.GenerateResource.Cache
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\obj\Debug\pass.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\pass\pass\obj\Debug\pass.pdb
